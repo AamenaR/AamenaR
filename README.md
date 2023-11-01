@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AamenaR
-- 👀 I’m interested in web design, javascript, front-end development
+- 👀 I’m interested in web designing, javascript, front-end development
 - 🌱 I’m currently learning react.js
 
 <!---
